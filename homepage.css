@@ -1,0 +1,352 @@
+
+@media only screen and (min-width: 320px) {
+    
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    
+}
+header {
+    background-image: url('images/banner.jpg');
+    background-position: top;
+    background-size: cover;
+    
+}
+
+#inner {
+    margin: 0 auto;
+    width: 70%;
+    /* padding-top: 5%;
+    max-width: 1280px;
+    padding-right: 15%;
+    padding-left: 15%; */
+    
+}
+
+ .Semos {
+    color: white;
+    font-weight: bold;
+    position: sticky;
+    text-decoration: none; 
+} 
+.Home {
+    color: white;
+    position: sticky;
+    left: 68%;
+    text-decoration: none; 
+}
+.Generic {
+    color: white;
+    position: sticky;
+    left: 73%;
+    text-decoration: none; 
+    
+}
+.Elements {
+    color: white;
+    position: sticky;
+    left: 100%;
+    text-decoration: none;
+    
+} 
+h1 {
+    font-size: 350%;
+    font-weight: 100;
+    color:white;
+    text-align: center;
+    position: relative;
+    padding-top: 10%;
+   
+    
+}
+.paragraf_header_home {
+    font-weight: 100;
+    color: #9a9a9a;
+    text-align: center;
+    position: relative;
+    padding-bottom: 8%;
+    
+   
+}
+
+.h4_koloni_section {
+    font-weight: 600;
+    color: #5385c1;
+}
+.paragraf_koloni_section {
+    font-weight: 100;
+    color: #9a9a9a;
+}
+#Content {
+    position: relative;
+    text-align: center;
+    max-width: 1280px;
+    padding-left: 15%;
+    padding-right: 15%;
+
+}
+.section1 {
+    text-align: center;
+    background-color: white;
+    /* padding-bottom: 5%; */
+}
+.prva_kolona {
+    float: left;
+    width: 30%;
+    text-align: left;
+    margin-top: 5%;
+    box-sizing: content-box;
+    border-right: 1px solid #d6d9dc;
+}
+.vtora_kolona {
+    float: left;
+    width: 30%;
+    text-align: left;
+    margin-top: 5%;
+    box-sizing: content-box; 
+    padding-left: 5%;
+    border-right: 1px solid #d6d9dc;
+}
+ .treta_kolona {
+    float: right;
+    width: 30%;
+    text-align: left; 
+    padding-top: 5%; 
+    box-sizing: content-box;
+
+}
+
+
+
+#section2 {
+    background-color: #5385c1;
+    height: 600px;
+    margin-top: 20%;
+    color: white; 
+}
+.img_secound_section {
+    border-radius: 50%;
+}
+.h2_home {
+    font-weight: 100;
+    font-size: 200%;
+    text-align: center;
+    padding-top: 5%;
+}
+.articles_home {
+    text-align: center;
+    font-weight: 100;
+}
+#wraper_articles {
+    max-width: 1280px;
+    position: relative;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.first_article {
+    float: left;
+    width: 15%;
+    padding: 2%; 
+    box-sizing: content-box;
+    text-align: center;
+    border: 1px solid #9a9a9a;
+    margin: 2% 8% 5% 0;
+}
+ .secound_article {
+    float: left;
+    width: 15%;
+    padding: 2%;
+    box-sizing: content-box;
+    text-align: center;
+    border: 1px solid #9a9a9a;
+    margin: 2% 0 5% 0;
+}
+.third_article {
+    float: left;
+    width: 15%;
+    padding: 2%;
+    box-sizing: content-box;
+    text-align: center;
+    border: 1px solid #9a9a9a;
+    margin: 2% 0 5% 8%;
+}
+.fourth_article {
+    float: right;
+    width: 15%;
+    padding: 2%;
+    box-sizing: content-box;
+    text-align: center;
+    border: 1px solid #9a9a9a;
+    margin: 2% 0 5% 0;
+}
+
+#wraper1 {
+    position: relative;
+    text-align: center;
+    max-width: 1280px;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5%;
+}
+
+.h2_third_section {
+    font-weight: 100;
+    font-size: 200%;
+    text-align: center;
+    color: #5385c1;
+}
+.glaven_paragraf_third_section {
+    color: #9a9a9a;
+    text-align: center;
+}
+.h4_third_section {
+    color: #5385c1;
+}
+.paragraf_third_section {
+    color:  #9a9a9a;
+}
+.img_third_section {
+    max-width: 100%;
+}
+.prva_kolona_third_section {
+    float: left;
+    width: 48%;
+    margin: 5% 0 0 0;
+    text-align: left;
+    box-sizing: content-box;
+}
+ #vtora_kolona_third_section {
+    float: right;
+    width: 48%;
+    margin: 5% 0 0 0;
+    text-align: left;
+    box-sizing: content-box;
+}    
+
+.paragraf_footer {
+     color: #9a9a9a;
+     display: inline;
+}
+#wraper_footer {
+    max-width: 1280px;
+    padding: 40% 15% 2% 15%;
+}
+
+    
+
+#icons {
+    max-width: 1280px;
+    text-align: right;
+    display: inline;
+    float: right;
+    
+}
+
+
+ .button {
+    background-color: #5385c1;
+    width: 70px;
+    height: 40px;
+    color: white;
+    border: solid;
+} 
+
+
+
+#header_semos {
+    background-color: #5385c1;
+    height: 50px; 
+
+}    
+#nav_semos {
+    padding-top: 1%;
+    max-width: 1280%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.semos_semos {
+    color: white;
+    font-weight: bold;
+    position: sticky;
+    text-decoration: none; 
+    
+}
+.home_semos {
+    color: white;
+    position: sticky;
+    left: 71%;
+    text-decoration: none;
+    
+}
+.generic_semos {
+    color: white;
+    position: sticky;
+    left: 76%;
+    text-decoration: none;
+   
+}
+.elements_semos {
+    color: white;
+    position: sticky;
+    left: 100%;
+    text-decoration: none;
+    
+}
+#wraper_semos {
+    max-width: 1280%;
+    padding: 0 15% 0 15%;
+}
+
+#section_semos {
+    color: #9a9a9a;
+}
+.h1_semos {
+    color: #5385c1;
+    font-weight: 200;
+    
+}
+.paragraph_first_semos {
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+h3 {
+    color: #5385c1;
+    font-weight: 400;
+}
+.paragraf_prva_kolona_semos {
+    color: #9a9a9a;
+}
+.paragraf_vtora_kolona_semos {
+    color: #9a9a9a;
+}
+.img_secound_section_semos {
+    max-width: 100%;
+}
+#prva_kolona_semos {
+    float: left;
+    width: 48%;
+    margin: 5% 0 0 0;
+    text-align: left;
+    box-sizing: content-box;
+}
+#vtora_kolona_semos {
+    float: right;
+    width: 48%;
+    margin: 5% 0 0 0;
+    text-align: left;
+    box-sizing: content-box;
+}
+.hr-footer-semos {
+    margin: 5% 0 5% 0 ;
+}
+#wraper_footer_semos {
+    max-width: 1280px;
+    padding: 40% 0 2% 0%;
+}
+
+
+
+
+}
